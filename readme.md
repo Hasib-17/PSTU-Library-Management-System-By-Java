@@ -18,35 +18,48 @@ facility to monitor the members of the library.
 
 ## Screenshot:
 <p align="center">
-  <img src="images/L1.png" alt="App Screenshot" width="400"/>
-</p>
-<p align="center">
-  <img src="images/L2.png" alt="App Screenshot" width="400"/>
-</p>
-
-<p align="center">
-  <img src="images/L3.png" alt="App Screenshot" width="400"/>
-</p>
-<p align="center">
-  <img src="images/L4.png" alt="App Screenshot" width="400"/>
-</p>
-<p align="center">
-  <img src="images/L5.png" alt="App Screenshot" width="400"/>
-</p>
-<p align="center">
-  <img src="images/L6.png" alt="App Screenshot" width="400"/>
-</p>
-<p align="center">
-  <img src="images/L7.png" alt="App Screenshot" width="400"/>
-</p>
-<p align="center">
-  <img src="images/L8.png" alt="App Screenshot" width="400"/>
-</p>
-<p align="center">
-  <img src="images/L9.png" alt="App Screenshot" width="400"/>
-</p>
-<p align="center">
-  <img src="images/L11.png" alt="App Screenshot" width="400"/>
+  <h3> Home Page:</h3>
+  <img src="images/L1.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> SignUp Page: </h3>
+  <img src="images/L2.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> Login Page: </h3>
+  <img src="images/L3.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> ManageStudents: </h3>
+  <img src="images/L4.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> ManageBooks: </h3>
+  <img src="images/L5.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> Special Corner: </h3>
+  <img src="images/L6.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> Issue a Books: </h3>
+  <img src="images/L7.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> Return Books: </h3>
+  <img src="images/L8.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> Issue Book Details: </h3>
+  <img src="images/L9.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> View all records: </h3>
+  <img src="images/L10.png" alt="App Screenshot" width="90%"/>
+  <br>
+  <br>
+  <h3> Defaulter List: </h3>
+  <img src="images/L11.png" alt="App Screenshot" width="90%"/>
 </p>
 
 
